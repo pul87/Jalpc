@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Sito archeologico dove sono stati rinvenuti resti dell'uomo di Neanderthal   # Describe yourself.
+  desc: Dall'uomo di Neanderthal all'Homo Sapiens, sito archeologico internazionale nel Comune di Erli   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

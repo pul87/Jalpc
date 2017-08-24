@@ -134,21 +134,6 @@ h3,h4,h5 {
   z-index: 2000;
 }
 
-.count-info .label {
-  line-height: 12px;
-  padding: 2px 5px;
-  position: absolute;
-  right: 6px;
-  top: 12px;
-}
-
-body:not(.fixed-sidebar):not(.canvas-menu).mini-navbar .nav li:hover>.nav-second-level {
-  display: block;
-  border-radius: 0 2px 2px 0;
-  min-width: 140px;
-  height: auto;
-}
-
 .navbar-default .landing_link a {
   background: #3385FF;
   color: #fff;
@@ -157,11 +142,6 @@ body:not(.fixed-sidebar):not(.canvas-menu).mini-navbar .nav li:hover>.nav-second
 .navbar-default .landing_link a:hover {
   background: #3385FF!important;
   color: #fff;
-}
-
-.navbar-default .landing_link a span.label {
-  background: #fff;
-  color: #3385FF;
 }
 
 .navbar-fixed-top {
@@ -196,14 +176,6 @@ body.fixed-nav.fixed-nav-basic.body-small .navbar-fixed-top {
 
 .body-small .navbar-fixed-top {
   margin-left: 0;
-}
-
-body:not(.fixed-sidebar):not(.canvas-menu).mini-navbar .nav-second-level {
-  display: none;
-}
-
-body.canvas-menu .nav-header {
-  padding: 33px 25px;
 }
 
 .top-navigation #page-wrapper {
@@ -257,10 +229,6 @@ body.canvas-menu .nav-header {
 
 .top-navigation .navbar-top-links li:last-child {
   margin-right: 0;
-}
-
-.canvas-menu #page-wrapper {
-  margin: 0;
 }
 
 .fixed-nav #wrapper.top-navigation,.top-navigation.fixed-nav #wrapper {
@@ -543,14 +511,6 @@ button.dim:before {
   padding-top: 10px;
 }
 
-.label {
-  background-color: #d1dade;
-  color: #5e5e5e;
-  font-family: 'Open Sans';
-  text-shadow: none;
-  font-weight: 600;
-}
-
 button.dim:active:before {
   top: 7px;
   font-size: 50px;
@@ -558,46 +518,6 @@ button.dim:active:before {
 
 .btn:focus {
   outline: 0!important;
-}
-
-.label {
-  font-size: 10px;
-  padding: 3px 8px;
-}
-
-.label-primary {
-  background-color: #3385FF;
-  color: #FFF;
-}
-
-.label-success {
-  background-color: #1c84c6;
-  color: #FFF;
-}
-
-.label-warning {
-  background-color: #f8ac59;
-  color: #FFF;
-}
-
-.label-warning-light {
-  background-color: #f8ac59;
-  color: #fff;
-}
-
-.label-info {
-  background-color: #23c6c8;
-  color: #FFF;
-}
-
-.label-white {
-  background-color: #FFF;
-  color: #5E5E5E;
-}
-
-.label-white {
-  background-color: #2A2E36;
-  color: #8B91A0;
 }
 
 .h-150 {
@@ -688,19 +608,7 @@ button.dim:active:before {
   border-color: #ed5565;
 }
 
-.has-success .control-label {
-  color: #3385FF;
-}
-
-.has-warning .control-label {
-  color: #f8ac59;
-}
-
-.has-error .control-label {
-  color: #ed5565;
-}
-
-.author-info,.dd-item>button,.dd-item>button:before,.forum-avatar,.forum-icon,.forum-info,.vertical-timeline-icon {
+.author-info,.dd-item>button,.dd-item>button:before,.vertical-timeline-icon {
   text-align: center;
 }
 
@@ -785,12 +693,6 @@ button.dim:active:before {
   height: 300px;
 }
 
-label.error {
-  color: #cc5965;
-  display: inline-block;
-  margin-left: 5px;
-}
-
 .form-control.error {
   border: 1px dotted #cc5965;
 }
@@ -801,83 +703,10 @@ label.error {
   width: 100%;
 }
 
-.forum-avatar {
-  float: left;
-  margin-right: 20px;
-  width: 110px;
-}
-
-.forum-avatar .img-circle {
-  height: 48px;
-  width: 48px;
-}
-
 .author-info {
   color: #676a6c;
   font-size: 11px;
   margin-top: 5px;
-}
-
-.forum-desc,.forum-item small {
-  color: #999;
-}
-
-.forum-post-info {
-  padding: 9px 12px 6px;
-  background: #f9f9f9;
-  border: 1px solid #f1f1f1;
-}
-
-.forum-item {
-  margin: 10px 0;
-  padding: 10px 0 20px;
-  border-bottom: 1px solid #f1f1f1;
-}
-
-.forum-container,.forum-post-container {
-  padding: 30px!important;
-}
-
-.forum-title {
-  margin: 15px 0;
-}
-
-.forum-icon {
-  float: left;
-  width: 30px;
-  margin-right: 20px;
-}
-
-a.forum-item-title {
-  color: inherit;
-  display: block;
-  font-size: 18px;
-  font-weight: 600;
-}
-
-a.forum-item-title:hover {
-  color: inherit;
-}
-
-.forum-icon .fa {
-  font-size: 30px;
-  margin-top: 8px;
-  color: #9b9b9b;
-}
-
-.forum-item.active .fa,.forum-item.active a.forum-item-title {
-  color: #3385FF;
-}
-
-@media (max-width:992px) {
-  .forum-info {
-    margin: 15px 0 10px;
-    display: none;
-  }
-
-  .forum-desc {
-    float: none!important;
-  }
 }
 
 .vertical-container {
@@ -1135,6 +964,14 @@ a:focus,a:hover {
   font-weight: 600;
 }
 
+video {
+  height: auto!important;
+}
+
+video {
+  width: 100%!important;
+}
+
 #wrapper {
   width: 100%;
 }
@@ -1203,10 +1040,6 @@ a:focus,a:hover {
   border-right: 1px solid #e7eaec;
 }
 
-.full-width {
-  width: 100%!important;
-}
-
 .link-block {
   padding: 10px;
 }
@@ -1223,11 +1056,6 @@ img.circle-border {
 
 .login-panel {
   margin-top: 25%;
-}
-
-.icons-box h3 {
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 code {
@@ -1290,11 +1118,6 @@ code {
   padding: 0;
   text-overflow: ellipsis;
   float: left;
-}
-
-.ibox-title .label {
-  float: left;
-  margin-left: 4px;
 }
 
 .file-box {
@@ -1364,30 +1187,6 @@ code {
 
 .contact-box,.light-navbar .navbar.navbar-static-top {
   background-color: #fff;
-}
-
-a.close-canvas-menu {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  z-index: 1011;
-  color: #a7b1c2;
-}
-
-a.close-canvas-menu:hover {
-  color: #fff;
-}
-
-.close-canvas-menu {
-  display: none;
-}
-
-.canvas-menu .close-canvas-menu {
-  display: block;
-}
-
-.full-height {
-  height: 100%;
 }
 
 .p-xs {
@@ -1528,20 +1327,6 @@ a.close-canvas-menu:hover {
 
 .search-form {
   margin-top: 10px;
-}
-
-.search-result h3 {
-  margin-bottom: 0;
-  color: #1E0FBE;
-}
-
-.search-result .search-link {
-  color: #006621;
-}
-
-.search-result p {
-  font-size: 12px;
-  margin-top: 5px;
 }
 
 .contact-box {
@@ -1795,29 +1580,12 @@ ul.clear-list:first-child {
   padding: 40px;
 }
 
+del {
+  background-color: #ffc6c6;
+}
+
 .vote-item {
   border-top: 1px solid #e7eaec;
-}
-
-.social-feed-box {
-  border: 1px solid #e7eaec;
-  background: #fff;
-  margin-bottom: 15px;
-}
-
-.article .social-feed-box {
-  margin-bottom: 0;
-  border-bottom: none;
-}
-
-.article .social-feed-box:last-child {
-  margin-bottom: 0;
-  border-bottom: 1px solid #e7eaec;
-}
-
-.article .social-feed-box p {
-  font-size: 13px;
-  line-height: 18px;
 }
 
 .social-comment .social-comment,.vote-info,.vote-title {
@@ -2255,7 +2023,7 @@ body.landing-page {
 
 .landing-page section p {
   color: #aeaeae;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .landing-page h1 {
