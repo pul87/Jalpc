@@ -4,15 +4,15 @@
     },
     "nav":{
       "home": "Pagina Principale",
-      "about_me": "Il Progetto",
+      "about": "Il Progetto",
       "skills": "La Storia",
       "projects": "Projects",
       "career": "Gli scavi",
       "blog": "Blog",
       "link": "Link"
     },
-    "about_me":{
-      "about_me": "Arma Veirana",
+    "about":{
+      "about": "Arma Veirana",
       "des": "Dall'uomo di Neanderthal all'Homo Sapiens, sito archeologico internazionale nel Comune di Erli."
     },
     "skills":{
