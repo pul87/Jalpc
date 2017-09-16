@@ -6,22 +6,22 @@
   tpl: about.html
   css:
 
-- id: career
-  i18n: nav.career
-  name: Career
-  tpl: career.html
+- id: campaigns
+  i18n: nav.campaigns
+  name: Gli scavi
+  tpl: campaign.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
+- id: history
+  i18n: nav.history
+  name: History
+  tpl: history.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
+- id: universities
+  i18n: nav.universities
+  name: Università
+  tpl: universities.html
   css: project
 
 - id: blog

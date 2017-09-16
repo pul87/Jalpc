@@ -1,0 +1,44 @@
+<div class="container" id="i18_universities">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="universities.my_universities">Le Università</span></h1>
+        </div>
+    </div>
+    <div class="row">
+        {% for university in site.data.index.universities %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if forloop.last %}
+                {% if forloop.last == forloop.first %}
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                {% endif %}
+            {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            {% endif %}
+              <div class="team-member">
+                  <img src="{{ university.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                  <h4>
+                  {% if university.url %}
+                  <a href="{{ university.url }}" target="_blank"><span class="navy">{{ university.name }}</span></a>
+                  {% elsif university.repo %}
+                  <a href="https://github.com/{{ university.gh_user }}/{{ university.repo }}" target="_blank"><span class="navy">{{ university.name }}</span></a>
+                  {% else %}
+                  <span class="navy">{{ university.name }}</span>
+                  {% endif %}
+                  </h4>
+                  <p><span data-i18n="universities.{{ university.i18n }}">{{ university.desc }}</span></p>
+                  {% if university.repo %}
+                  <div user="{{ university.gh_user }}" repo="{{ university.repo }}" class="ghbtn">
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ university.gh_user }}/{{ university.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ university.gh_user }}/{{ university.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
+                      <div style="height: 10px;"></div>
+                  </div>
+                  {% endif %}
+              </div>
+          </div>
+      {% endfor %}
+    </div>
+</div>
+<br>
