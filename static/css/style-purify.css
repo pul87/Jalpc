@@ -2381,8 +2381,8 @@ body.landing-page {
 }
 
 .landing-page .img-small {
-  height: 88px;
-  width: 88px;
+  height: 85px;
+  /*width: 90px*/
 }
 
 .landing-page .btn-primary {

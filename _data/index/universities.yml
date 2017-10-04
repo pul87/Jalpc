@@ -1,22 +1,36 @@
 # universities section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest universitys' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This university is my university. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This university is other's university. I use another request to get repo's information.
+- name: Università di Bologna
+  i18n: unibo
+  img: /static/assets/img/landing/unibo.png
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another university.
+- name: University of Colorado
+  i18n: cu
+  img: /static/assets/img/landing/cu.svg
+
+- name: Università di Ferrara
+  i18n: unife
+  img: /static/assets/img/landing/unife.png
+
+- name: Università di Genova
+  i18n: unige
+  img: /static/assets/img/landing/unige.png
+
+- name: Université de Montréal
+  i18n: mtl
+  img: /static/assets/img/landing/universite_de_mtl.png
+
+- name: Washington University in St. Louis
+  i18n: wustl
+  img: /static/assets/img/landing/wustl.jpg
+
+- name: University of California San Diego
+  i18n: ucsd
+  img: /static/assets/img/landing/ucsd.png
+
+- name: Universitat Tubingen
+  i18n: ekut
+  img: /static/assets/img/landing/ekut.png
+ 
