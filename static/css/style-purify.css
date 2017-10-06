@@ -2397,22 +2397,6 @@ body.landing-page {
   padding-bottom: 30px;
 }
 
-.landing-page section.comments {
-  padding-bottom: 80px;
-}
-
-.landing-page .comments-avatar {
-  margin-top: 25px;
-  margin-left: 22px;
-}
-
-.landing-page .comments-avatar img {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  margin-right: 10px;
-}
-
 .landing-page .btn-info.btn-outline:hover,.landing-page .btn-primary.btn-outline:hover,.landing-page .btn-success.btn-outline:hover,.landing-page .btn-warning.btn-outline:hover {
   color: #fff;
 }
