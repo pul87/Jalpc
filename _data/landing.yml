@@ -24,15 +24,15 @@
   tpl: universities.html
   css: project
 
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
+#- id: blog
+#  i18n: nav.blog
+#  name: Blog
+#  tpl: blog.html
+#  page: blog/
+#  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Link Utili
   tpl: links.html
   css: contact

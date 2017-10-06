@@ -436,10 +436,6 @@ button.dim {
   transition: all .5s;
 }
 
-.btn-rounded {
-  border-radius: 50px;
-}
-
 .btn-large-dim {
   width: 90px;
   height: 90px;
@@ -2390,15 +2386,8 @@ body.landing-page {
   font-size: 14px;
 }
 
-.landing-page .testimonials {
-  padding-top: 80px;
-  padding-bottom: 90px;
-  background-color: #ffa500;
-  background-image: url(../img/landing/avatar_all.png);
-}
-
 .landing-page .contact {
-  background-image: url(../img/landing/word_map.png);
+  /* background-image: url(../img/landing/word_map.png); */
   background-position: 50% 50%;
   background-repeat: no-repeat;
   margin-top: 60px;
