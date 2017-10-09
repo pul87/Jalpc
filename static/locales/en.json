@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Arma Veirana"
   },
   "nav":{
     "home": "Home",
@@ -9,7 +9,7 @@
     "universities": "Universities",
     "campaigns": "Campaigns",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Contacts"
   },
   "about":{
     "about": "Arma Veirana",
@@ -20,7 +20,7 @@
     "desc": "During the 1970s, the cave was damaged y illegal diggers in search of bear bones and prehistoric handcrafts, and only in 2006, with the help of Giuseppe Vicino, former administrator of the Archeological Museum of Finale, the site was brought back to the scientific comunity. The first excavaton campaign was performed by an international team of archeologists in the summer of 2015, then a second one followed in the summer of 2016. The City of Erli and the \"Pro Loco\" have provided important and essential support to the research by supplying rooms for washing and the initial catalouguing of finds. The importance of the cave, at the moment, is the fact that archeologists have uncovered artifacts that indicate the on-site presence of the last Neanderthals who inhabited our region; stratified deposits with remoains of this human species were known, until now, only in places closer to the coast, such as at Balzi Rossi in Grimaldi (Ventimiglia) or in the site of Lazaret Cave in Nice (France), dated between 200000 and 40000 years ago. In particular, the cave, with its thousands of artifacts discovered so far (stone tools and food remains), is evidence of the extinction of the Neanderthals in Europe following the arrival of a new species of African origin, the so-called Anatomically Modern Man (Homo sapiens), whose species we all belong to."
   },
   "universities":{
-    "my_universities": "My universities",
+    "my_universities": "Universities",
     "jalpc": "This university is my university. I use javescript to get repo's information all my repos have only one request.",
     "cpython": "This university is other's university. I use another request to get repo's information.",
     "familycode": "This is another university."
@@ -48,7 +48,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Contacts",
     "view": "views"
   }
 
