@@ -2529,3 +2529,14 @@ body.landing-page {
     border: none;
   }
 }
+
+.marker {
+  background-color: #ffa500;
+  background-size: cover;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #fff;
+  box-shadow: 0 0 0 1px #ffa500;
+}

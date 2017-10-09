@@ -8191,3 +8191,14 @@ body.rtls.top-navigation .footer.fixed {
 .rtls #right-sidebar.sidebar-open {
     left: 0
 }
+
+.marker {
+    background-color: #ffa500;
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 1px #ffa500;
+  }

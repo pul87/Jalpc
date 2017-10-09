@@ -31,3 +31,22 @@
     })();
   </script>
 {% endif %}
+
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoicHVsIiwiYSI6ImNqOGlnaDUwcjEza3EzM3J3NWp3ZjJqbWUifQ.l0PTLPRx-ylyc3ZPKemEUQ';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v9',
+    center: [8.154097, 44.08],
+    zoom: 11,
+    interactive: true,
+    pitch: 35,
+    bearing: 30,
+    rotate: 10
+  });
+  var el = document.createElement('div');
+  el.className = 'marker';
+  var marker = new mapboxgl.Marker(el)
+  .setLngLat([8.1009, 44.134])
+  .addTo(map);
+</script>

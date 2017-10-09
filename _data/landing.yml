@@ -33,6 +33,6 @@
 
 - id: links
   i18n: nav.link
-  name: Link Utili
+  name: Contatti
   tpl: links.html
   css: contact
