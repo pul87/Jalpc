@@ -3,16 +3,19 @@
   first_name:
   desc: 
   website: http://prolocovaldinevaerli.it
+  img: /static/assets/img/landing/logo_pro_loco.png
   email: prolocoerli@libero.it
 
 - last_name: Università degli studi di Genova
   first_name: 
   desc:
+  img: /static/assets/img/landing/unige.png
   website: http://www.unige.it
   email:
 
 - last_name: Comune di Erli
   first_name:
   desc: 
+  img: /static/assets/img/landing/erli_stemma.png
   website: http://www.comune.erli.sv.it/
   email: comunedierli@virgilio.it

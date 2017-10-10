@@ -7432,7 +7432,7 @@ body.landing-page {
     font-size: 14px;
     background:  #ffa500;
     padding: 15px 20px;
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 2px 2px;
     font-weight: 700;
     transition: all .3s ease-in-out 0s
 }
@@ -7475,7 +7475,7 @@ body.landing-page {
 
 .landing-page .navbar.navbar-scroll .navbar-brand {
     margin-top: 15px;
-    border-radius: 5px;
+    border-radius: 2px;
     font-size: 12px;
     padding: 10px;
     height: auto
