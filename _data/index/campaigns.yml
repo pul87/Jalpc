@@ -2,56 +2,56 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: 2006
-    i18n: company_a
+    i18n: start
   desc:
     detail: Giuseppe Vicino, tramite il Museo Archeologico di Finale segnala il sito alla comunità scientifica
-    i18n: company_a_desc
+    i18n: start_desc
   date:
     detail: 2006
-    i18n: company_a_date
+    i18n: start_date
   job:
     detail: Giuseppe Vicino.
-    i18n: company_a_job
+    i18n: start_people
   icon: fa-plus-square
 
 - name:
     detail: Campagna 2015
-    i18n: company_a
+    i18n: 2015
   desc:
     detail: Prima campagna di scavi
-    i18n: company_a_desc
+    i18n: 2015_desc
   date:
     detail: Apr. 2015
-    i18n: company_a_date
+    i18n: 2015_date
   job:
     detail: Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, studenti universitari.
-    i18n: company_a_job
+    i18n: 2015_people
   icon: fa-plus-square
 
 - name:
     detail: Campagna 2016
-    i18n: company_b
+    i18n: 2016
   desc:
     detail: Dopo il successo delle pubblicazioni scientifiche successive agli scavi del 2015 il prestigioso National Geographic contribuisce alla campagna fornendo ai ricercatori scan-laser e droni che hanno permesso la realizzazione, grazie all'intervento di alcuni ingegneri dell'Università di San Diego, di una mappa e di un video tridimensionali della valle e della grotta.
-    i18n: company_b_desc
+    i18n: 2016_desc
   date:
     detail: Giu. 2016
-    i18n: company_b_date
+    i18n: 2016_date
   job:
     detail: Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, Dominique Meyer e collaboratori, studenti universitari.
-    i18n: company_b_job
+    i18n: 2016_people
   icon: fa-plus-square
 
 - name:
     detail: Campagna 2017
-    i18n: company_b
+    i18n: 2017
   desc:
     detail: Ritrovato incisivo di Neanderthaliano
-    i18n: company_b_desc
+    i18n: 2017_desc
   date:
     detail: Lug. 2017
-    i18n: company_b_date
+    i18n: 2017_date
   job:
     detail: Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, Dominique Meyer e collaboratori, studenti universitari.
-    i18n: company_b_job
+    i18n: 2017_people
   icon: fa-plus-square

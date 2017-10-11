@@ -15,10 +15,10 @@
                         <i class="fa {{ campaign.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="campaign.{{ campaign.name.i18n }}">{{ campaign.name.detail }}</span></h2>
-                        <p><span data-i18n="campaign.{{ campaign.desc.i18n }}">{{ campaign.desc.detail }} </span></p>
-                        <span class="vertical-date"><span data-i18n="campaign.{{ campaign.date.i18n }}"> {{ campaign.date.detail }} </span>
-                        <br/> <small><span data-i18n="campaign.{{ campaign.job.i18n }}">{{ campaign.job.detail }}</span></small> </span>
+                        <h2><span data-i18n="campaigns.{{ campaign.name.i18n }}">{{ campaign.name.detail }}</span></h2>
+                        <p><span data-i18n="campaigns.{{ campaign.desc.i18n }}">{{ campaign.desc.detail }} </span></p>
+                        <span class="vertical-date"><span data-i18n="campaigns.{{ campaign.date.i18n }}"> {{ campaign.date.detail }} </span>
+                        <br/> <small><span data-i18n="campaigns.{{ campaign.job.i18n }}">{{ campaign.job.detail }}</span></small> </span>
                     </div>
                 </div>
             {% endfor %}
