@@ -26,7 +26,7 @@
     "familycode": "This is another university."
   },
   "campaigns":{
-    "my_career": "Campaigns",
+    "title": "Campaigns",
     "start": "2006",
     "start_desc": "The site was brought back to the scientific community by Giuseppe Vicino, former administrator of the Archeological Museum of Finale.",
     "start_date": "2006",
