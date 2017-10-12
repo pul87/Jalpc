@@ -15,9 +15,13 @@
     "about": "Arma Veirana",
     "des": "Dall'uomo di Neanderthal all'Homo Sapiens, sito archeologico internazionale nel Comune di Erli."
   },
-  "skills":{
-    "my_skills": "La Storia",
-    "desc": "Durante gli anni '70 del secolo scorso la grotta subì alcuni danni ad opera di scavatori clandestini, in cerca di ossa d'orso o di manufatti preistorici, e solo nel 2006, grazie ad un intervento di Giuseppe Vicino, ex conservatore del Museo Archeologico del Finale, il sito è stato segnalato alla comunità scientifica. La Prima campagna di scavi si è svolta nell'estate del 2015, seguita da un secondo intervento nell'estate del 2016, ad opera di una équipe internazionale. Il Comune di Erli e la Pro Loco hanno dato un importante e indispensabile supporto alle ricerche concedendo alcuni locali per il lavaggio e la prima catalogazione dei reperti. L'importanza della grotta, al momento, è data dal fatto che sono stati rinvenuti manufatti che indicano la presenza sul sito degli ultimi uomini di Neanderthal che abitarono la nostra regione; depositi stratificati con resti di questo tipo umano erano per altro noti, finora, solo in località più prossime alla costa, come ad esempio i balzi rossi di Grimaldi (Ventimiglia), o nel sito della Grotte du Lazaret a Nizza (Francia), e datati tra i 200000 e i 40000 anni fa da oggi. Nello specifico, la grotta, con le sue migliaia di reperti finora trovati (strumenti in pietra e resti di pasto), racconta appunto l'estinzione dei Neanderthaliani in seguito all'arrivo in Europa di una nuova umanità di origine africana ovvero del cosidetto Uomo Anatomicamente Moderno (Homo Sapiens) alla cui specie tutti noi apparteniamo."
+  "history":{
+    "title": "La Storia",
+    "p0":
+      "Durante gli anni '70 del secolo scorso la grotta subì alcuni danni ad opera di scavatori clandestini, in cerca di ossa d'orso o di manufatti preistorici, e solo nel 2006, grazie ad un intervento di Giuseppe Vicino, ex conservatore del Museo Archeologico del Finale, il sito è stato segnalato alla comunità scientifica.",
+    "p1": "La Prima campagna di scavi si è svolta nell'estate del 2015, seguita da un secondo intervento nell'estate del 2016, ad opera di una équipe internazionale.",
+    "p2": "Il Comune di Erli e la Pro Loco hanno dato un importante e indispensabile supporto alle ricerche concedendo alcuni locali per il lavaggio e la prima catalogazione dei reperti.",
+    "p3": "L'importanza della grotta, al momento, è data dal fatto che sono stati rinvenuti manufatti che indicano la presenza sul sito degli ultimi uomini di Neanderthal che abitarono la nostra regione; depositi stratificati con resti di questo tipo umano erano per altro noti, finora, solo in località più prossime alla costa, come ad esempio i balzi rossi di Grimaldi (Ventimiglia), o nel sito della Grotte du Lazaret a Nizza (Francia), e datati tra i 200000 e i 40000 anni fa da oggi. Nello specifico, la grotta, con le sue migliaia di reperti finora trovati (strumenti in pietra e resti di pasto), racconta appunto l'estinzione dei Neanderthaliani in seguito all'arrivo in Europa di una nuova umanità di origine africana ovvero del cosidetto Uomo Anatomicamente Moderno (Homo Sapiens) alla cui specie tutti noi apparteniamo."
   },
   "universities":{
     "my_universities": "Le Università",

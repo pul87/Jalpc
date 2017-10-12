@@ -10,7 +10,7 @@ $(document).ready(function() {
     $('.i18container').i18n();
     $('#i18_navbar').i18n();
     $('#i18_about').i18n();
-    $('#i18_skills').i18n();
+    $('#i18_history').i18n();
     $('#i18_universities').i18n();
     $('#i18_campaigns').i18n();
     $('#i18_blog').i18n();
