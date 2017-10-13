@@ -1,0 +1,16 @@
+# credits section data
+title: Crediti
+sponsor: Proloco Val di Neva Erli
+made_by: Sito realizzato dalla 
+desc: Ringraziamo per i contenuti e per il materiale fotografico
+
+contributors:
+  - name: Rotary Club Imperia
+    img: /static/assets/img/landing/rotary.png
+    url: http://www.rotaryimperia.it/
+  - name: Rotary Club Albenga
+    img: /static/assets/img/landing/rotary.png
+    url: http://www.rotaryalbenga.org/index_it.html
+  - name: Dominique Meyer
+    img: ""
+    url: "#"

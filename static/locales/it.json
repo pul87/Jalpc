@@ -9,7 +9,8 @@
     "universities": "Le Università",
     "campaigns": "Gli scavi",
     "blog": "Blog",
-    "link": "Contatti"
+    "link": "Contatti",
+    "credits": "Crediti"
   },
   "about":{
     "about": "Arma Veirana",
@@ -54,5 +55,11 @@
   "link":{
     "link": "Contatti",
     "view": "views"
+  },
+  "credits": {
+    "title": "Crediti",
+    "sponsor": "Proloco Val di Neva Erli",
+    "made_by": "Sito realizzato dalla ", 
+    "desc": "Ringraziamo per i contenuti e per il materiale fotografico"
   }
 }

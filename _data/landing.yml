@@ -36,3 +36,8 @@
   name: Contatti
   tpl: links.html
   css: contact
+
+- id: credits
+  i18n: nav.credits
+  name: Crediti
+  tpl: credits.html
