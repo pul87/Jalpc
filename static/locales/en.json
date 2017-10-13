@@ -9,7 +9,8 @@
     "universities": "Universities",
     "campaigns": "Campaigns",
     "blog": "Blog",
-    "link": "Contacts"
+    "link": "Contacts",
+    "credits": "Credits"
   },
   "about":{
     "about": "Arma Veirana",
@@ -53,6 +54,11 @@
   "link":{
     "link": "Contacts",
     "view": "views"
+  },
+  "credits": {
+    "title": "Credits",
+    "sponsor": "Proloco Val di Neva Erli",
+    "made_by": "Website made by ", 
+    "desc": "Thanks for the content and the photographic material provided"
   }
-
 }

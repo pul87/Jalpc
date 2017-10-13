@@ -1,0 +1,30 @@
+<div class="container" id="i18_credits">
+    <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+                <div class="navy-line"></div>
+                <h1><span data-i18n="credits.title">{{site.data.index.credits.title}}</span></h1>
+                <p>
+                    <small>
+                        <span data-i18n="credits.made_by">{{site.data.index.credits.made_by}}</span>
+                        <strong data-i18n="credits.sponsor">{{site.data.index.credits.sponsor}}</strong>
+                    </small>
+                </p>
+                <p data-i18n="credits.desc">{{site.data.index.credits.desc}}</p>
+            </div>
+    </div>
+    <div class="row">
+        {% for contributor in site.data.index.credits.contributors %}
+            <div class="col-sm-4 text-center">
+                <div class="row">
+                    <img style="min-height: 60px; max-height:60px;" src="{{contributor.img}}">
+                </div>
+                <a target="_blank" href="{{contributor.url}}">{{contributor.name}}</a>
+            </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+                <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
+            </div>
+    </div>
+</div>
