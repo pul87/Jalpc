@@ -960,6 +960,10 @@ a:focus,a:hover {
   font-weight: 600;
 }
 
+.b-r {
+  border-right: 1px solid #e7eaec;
+}
+
 video {
   height: auto!important;
 }
@@ -1315,6 +1319,50 @@ code {
 
 .m-t-n-lg {
   margin-top: -30px;
+}
+
+.m-r-none {
+  margin-right: 0;
+}
+
+.m-r-xs {
+  margin-right: 5px;
+}
+
+.m-r-sm {
+  margin-right: 10px;
+}
+
+.m-r {
+  margin-right: 15px;
+}
+
+.m-r-md {
+  margin-right: 20px;
+}
+
+.m-r-lg {
+  margin-right: 30px;
+}
+
+.m-r-n-xs {
+  margin-right: -5px;
+}
+
+.m-r-n-sm {
+  margin-right: -10px;
+}
+
+.m-r-n {
+  margin-right: -15px;
+}
+
+.m-r-n-md {
+  margin-right: -20px;
+}
+
+.m-r-n-lg {
+  margin-right: -30px;
 }
 
 .m-b-none {
