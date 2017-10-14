@@ -10,7 +10,7 @@
   i18n: nav.campaigns
   name: Gli scavi
   tpl: campaign.html
-  css: timeline
+  css: timeline gray-section
 
 - id: history
   i18n: nav.history
@@ -22,7 +22,7 @@
   i18n: nav.universities
   name: Università
   tpl: universities.html
-  css: project
+  css: project gray-section
 
 #- id: blog
 #  i18n: nav.blog
