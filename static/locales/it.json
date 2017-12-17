@@ -14,16 +14,16 @@
   },
   "about":{
     "about": "Arma Veirana",
-    "des": "Dall'uomo di Neanderthal all'Homo Sapiens, sito archeologico internazionale nel Comune di Erli.",
-    "subdes": "Scavi diretti dal Professor Negrino dell'Università di Genova"
+    "des": "Dall'uomo di Neandertal all'Homo sapiens. Sito archeologico di importanza internazionale nel Comune di Erli.",
+    "subdes": "Scavi diretti da un’équipe formata da ricercatori europei, statunitensi e canadesi"
   },
   "history":{
     "title": "La Storia",
     "p0":
-      "Durante gli anni '70 del secolo scorso la grotta subì alcuni danni ad opera di scavatori clandestini, in cerca di ossa d'orso o di manufatti preistorici, e solo nel 2006, grazie ad un intervento di Giuseppe Vicino, ex conservatore del Museo Archeologico del Finale, il sito è stato segnalato alla comunità scientifica.",
-    "p1": "La Prima campagna di scavi si è svolta nell'estate del 2015, seguita da un secondo intervento nell'estate del 2016, ad opera di una équipe internazionale.",
+      "Durante gli anni '70 del secolo scorso la grotta subì alcuni danni ad opera di ignoti scavatori clandestini, in cerca di ossa d'orso o di manufatti preistorici. Viene poi riscoperto da Renato Bonfanti, Andrea Lamberti e Giuseppe Vicino. Quest’ultimo, nel 2006, lo segnala alla comunità scientifica.",
+    "p1": "La prima campagna di scavi si è svolta nell'estate del 2015, seguita da altre due campagne  nelle estati del 2016 e del 2017, ad opera di un'équipe internazionale.",
     "p2": "Il Comune di Erli e la Pro Loco hanno dato un importante e indispensabile supporto alle ricerche concedendo alcuni locali per il lavaggio e la prima catalogazione dei reperti.",
-    "p3": "L'importanza della grotta, al momento, è data dal fatto che sono stati rinvenuti manufatti che indicano la presenza sul sito degli ultimi uomini di Neanderthal che abitarono la nostra regione; depositi stratificati con resti di questo tipo umano erano per altro noti, finora, solo in località più prossime alla costa, come ad esempio i balzi rossi di Grimaldi (Ventimiglia), o nel sito della Grotte du Lazaret a Nizza (Francia), e datati tra i 200000 e i 40000 anni fa da oggi. Nello specifico, la grotta, con le sue migliaia di reperti finora trovati (strumenti in pietra e resti di pasto), racconta appunto l'estinzione dei Neanderthaliani in seguito all'arrivo in Europa di una nuova umanità di origine africana ovvero del cosidetto Uomo Anatomicamente Moderno (Homo Sapiens) alla cui specie tutti noi apparteniamo."
+    "p3": "L'importanza della grotta, al momento, è data dal fatto che sono stati rinvenuti manufatti che indicano la presenza sul sito degli ultimi uomini di Neandertal che abitarono la nostra regione; depositi stratificati con resti di questo tipo umano erano per altro noti, finora, solo in località più prossime alla costa, come ad esempio ai Balzi Rossi di Grimaldi (Ventimiglia), o nel sito della Grotte du Lazaret, a Nizza (in Francia), e datati tra i 200.000 e i 40.000 anni fa da oggi. Nello specifico, la grotta, con le sue migliaia di reperti finora trovati (strumenti in pietra e resti di pasto), racconta appunto dell'estinzione dei neandertaliani, forse in seguito all'arrivo in Europa di una nuova umanità di origine africana ovvero del cosiddetto Uomo Anatomicamente Moderno (Homo sapiens) alla cui specie tutti noi apparteniamo."
   },
   "universities":{
     "my_universities": "Le Università",
@@ -34,7 +34,7 @@
   "campaigns":{
     "title": "Gli scavi",
     "start": "2006",
-    "start_desc": "Giuseppe Vicino, tramite il Museo Archeologico di Finale segnala il sito alla comunità scientifica",
+    "start_desc": "Il sito, originariamente scoperto da Renato Bonfanti, Andrea Lamberti e Giuseppe Vicino, viene segnalato da quest’ultimo, nel 2006, alla comunità scientifica.",
     "start_date": "2006",
     "start_people": "Giuseppe Vicino",
     "2015": "Campagna 2015",
@@ -42,11 +42,11 @@
     "2015_date": "Apr. 2015",
     "2015_people": "Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, studenti universitari.",
     "2016": "Campagna 2016",
-    "2016_desc": "Dopo il successo delle pubblicazioni scientifiche successive agli scavi del 2015 il prestigioso National Geographic contribuisce alla campagna fornendo ai ricercatori scan-laser e droni che hanno permesso la realizzazione, grazie all'intervento di alcuni ingegneri dell'Università di San Diego, di una mappa e di un video tridimensionali della valle e della grotta.",
+    "2016_desc": "Dopo il successo delle pubblicazioni scientifiche successive agli scavi del 2015 il prestigioso National Geographic contribuisce alla campagna fornendo ai ricercatori scan-laser e droni che hanno permesso la realizzazione, grazie all'intervento di alcuni ingegneri dell'Università di San Diego (Dominique Meyer), di una mappa e di un video tridimensionali della valle e della grotta.",
     "2016_date": "Giu. 2016",
     "2016_people": "Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, Dominique Meyer e collaboratori, studenti universitari.",
     "2017": "Campagna 2017",
-    "2017_desc": "Ritrovato incisivo di Neanderthaliano",
+    "2017_desc": "Ritrovato un incisivo di Homo sapiens del Paleolitico superiore.",
     "2017_date": "Lug. 2017",
     "2017_people": "Stefano Benazzi, Jamie Hodgkins, Caley Orr, Christopher Miller. Fabio Negrino, Marco Peresani, Julien Riel Salvatore, David Strait, Dominique Meyer e collaboratori, studenti universitari."
   },
