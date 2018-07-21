@@ -2282,6 +2282,11 @@ body.landing-page {
 
 .landing-page .header-back.two {
   background: url(../img/landing/header_two.jpg) 50% 0 no-repeat;
+  background-position: 0% 40%;
+}
+
+.landing-page .header-back.three {
+  background: url(../img/landing/header_3.jpg) 50% 0 no-repeat;
 }
 
 .landing-page .carousel {
