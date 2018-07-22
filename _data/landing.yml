@@ -6,6 +6,12 @@
   tpl: about.html
   css:
 
+- id: paleovalneva
+  i18n: nav.paleovalneva
+  name: Paleovalneva
+  tpl: paleovalneva.html
+  css:
+
 - id: campaigns
   i18n: nav.campaigns
   name: Gli scavi
